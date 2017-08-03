@@ -88,7 +88,7 @@
 
         var bannerNode = $('.top-image');
         if(bannerNode.data('enable')){
-            var index = parseInt((Math.random() * 44) + 1);
+            var index = parseInt((Math.random() * 10) + 1);
             bannerNode.attr('style','background-image:url(/banner/'+index+'.jpg)');
         }
     })
