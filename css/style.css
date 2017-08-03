@@ -1132,10 +1132,9 @@ a[data-tooltip][data-placement="top"]::after {
   margin-bottom: 0;
 }
 .headimg {
-  width: 80px;
-  height: 80px;
+  width: 184px;
+  height: 116px;
   float: left;
-  border-radius: 50%;
   margin-right: 30px;
 }
 .site-description {
